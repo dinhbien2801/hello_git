@@ -2,5 +2,5 @@ hdfs
 hrloohnfo
 ok
 <<<<<<< HEAD
-jdk
+jdk8
 
